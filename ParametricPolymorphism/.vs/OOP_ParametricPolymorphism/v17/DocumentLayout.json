@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ustich\\Desktop\\\u0441\u0442\u0443\u0434\u0435\u043D\u0442\\3 \u041A\u0423\u0420\u0421\\\u041E\u041E\u041F\\\u043D\u0430 28.03.26\\OOP_ParametricPolymorphism\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EEFF904-EF30-4A21-A33D-C0E6A41EB889}|OOP_ParametricPolymorphism\\OOP_ParametricPolymorphism.vcxproj|C:\\Users\\Ustich\\Desktop\\\u0441\u0442\u0443\u0434\u0435\u043D\u0442\\3 \u041A\u0423\u0420\u0421\\\u041E\u041E\u041F\\\u043D\u0430 28.03.26\\OOP_ParametricPolymorphism\\OOP_ParametricPolymorphism\\OOP_ParametricPolymorphism.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6EEFF904-EF30-4A21-A33D-C0E6A41EB889}|OOP_ParametricPolymorphism\\OOP_ParametricPolymorphism.vcxproj|solutionrelative:OOP_ParametricPolymorphism\\OOP_ParametricPolymorphism.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OOP_ParametricPolymorphism.cpp",
+              "DocumentMoniker": "C:\\Users\\Ustich\\Desktop\\\u0441\u0442\u0443\u0434\u0435\u043D\u0442\\3 \u041A\u0423\u0420\u0421\\\u041E\u041E\u041F\\\u043D\u0430 28.03.26\\OOP_ParametricPolymorphism\\OOP_ParametricPolymorphism\\OOP_ParametricPolymorphism.cpp",
+              "RelativeDocumentMoniker": "OOP_ParametricPolymorphism\\OOP_ParametricPolymorphism.cpp",
+              "ToolTip": "C:\\Users\\Ustich\\Desktop\\\u0441\u0442\u0443\u0434\u0435\u043D\u0442\\3 \u041A\u0423\u0420\u0421\\\u041E\u041E\u041F\\\u043D\u0430 28.03.26\\OOP_ParametricPolymorphism\\OOP_ParametricPolymorphism\\OOP_ParametricPolymorphism.cpp",
+              "RelativeToolTip": "OOP_ParametricPolymorphism\\OOP_ParametricPolymorphism.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-22T18:39:52.696Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
